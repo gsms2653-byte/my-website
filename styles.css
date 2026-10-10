@@ -1,0 +1,55 @@
+body {
+    background-color: #f0f0f0;
+}
+div {
+ font-family:Georgia, 'Times New Roman', Times, serif
+ 
+}
+
+.profilephoto {
+    border-radius: 10%;
+    border: 2px solid #000;
+margin-left: auto;
+margin-right: auto;
+display:block;
+height: 400px;
+width: 500px;
+}
+.highlight {
+    background-color: rgb(255, 231, 247);
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif
+}
+#intro {
+    font-size: 18px;
+    color: #333;
+text-align: center;
+}
+#title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.form-label {
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#sahit {
+    font-size: small;
+}
+.size {
+    font-size: large;
+}
+.submit {
+    font-size: large;
+    background-color: lightgreen;
+    border: 1px solid black ;
+}
+.reset {
+        font-size: large;
+    background-color: rgb(253, 155, 152);
+    border: 1px solid black ;
+}
+#masta {
+    font-size: 13px;
+}
