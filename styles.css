@@ -94,6 +94,10 @@ img {
         display: block;
         margin: 15px auto;
     }
+    .nour {
+            max-width: 100%;
+            height: auto;
+    }
 
     input:not([type="radio"]):not([type="checkbox"]):not([type="color"]) {
         max-width: 100%;
@@ -135,5 +139,7 @@ img {
     #masta {
         max-width: 100%;
         overflow-wrap: anywhere;
+
     }
+
 }
